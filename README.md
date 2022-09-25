@@ -28,4 +28,4 @@ Within this project I updated several code lines to add more accesibility within
 
 ## Screenshot of the Webpage
 
-![WebPage Screenshot](./Develop/assets/images/WebpageScreenshot.png)
+![WebPage Screenshot](./Develop/assets/images/Webpage-Screenshot.png)
