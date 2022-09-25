@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Made h1 definition global*/
+/* Made h1 definition global */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -55,6 +55,7 @@ h3 {
     display: inline-block;
     margin-left: 25px;
 }
+
 
 a {
     color: #ffffff;
