@@ -8,6 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Made h1 definition global*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+
+}
+
+/* Made h2 definiton global */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Made h3 definition global */
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,12 +35,7 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h1 .seo {
+.header .seo {
     color: #d9dcd6;
 }
 
@@ -101,20 +116,6 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 .benefit-lead img {
     display: block;
@@ -173,28 +174,16 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+.footer  {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
 }
 
 .footer h2 {
     font-size: 20px;
 }
+
