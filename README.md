@@ -2,9 +2,9 @@
 
 ## Link to the Github and Deployed Webpage 
 
-[GitHub]()
+[GitHub Repository](https://github.com/j-faust/module-challenge-1)
 
-[Deployed Webpage]()
+[Deployed Webpage](https://j-faust.github.io/module-challenge-1)
 
 ## Project Purpose
 
@@ -14,7 +14,7 @@ Within this project I updated several code lines to add more accesibility within
 
 * Added accessible 'alt' attributes to images on the webpage.
 
-* Added <section> <header> and <footer> elements within the HTML to better denote the section purpose.
+* Added "section" "header" and "footer" elements within the HTML to better denote the section purpose.
 
 * Added descriptive comments to inform of changes made on the code and why they were made.
 
